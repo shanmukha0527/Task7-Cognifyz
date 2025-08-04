@@ -1,6 +1,6 @@
 # Task7-Cognifyz
 # TechSolutions - Bootstrap Component-Based Website
-
+Live Site: https://shanmukha0527.github.io/Task7-Cognifyz/
 A modern, responsive business website built with Bootstrap 5, featuring component-based architecture, smooth animations, and professional design. This project demonstrates advanced front-end development techniques using vanilla JavaScript, custom CSS, and Bootstrap framework.
 
 ## 🚀 Features
